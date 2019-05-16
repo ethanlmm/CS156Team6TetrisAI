@@ -1,0 +1,1 @@
+Run the program by typing "py main_representation.py" in the root path
